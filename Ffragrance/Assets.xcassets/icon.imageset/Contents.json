@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "appstore copy Background Removed.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
